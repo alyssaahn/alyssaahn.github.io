@@ -43,12 +43,12 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/alyssalahn/
+  - title: vsco
+    url: https://vsco.co/whotookabyte/images/1 
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/alyssaahn
 
 # Postal address (add as many lines as necessary)
 address:
