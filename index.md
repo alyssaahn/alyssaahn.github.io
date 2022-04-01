@@ -91,13 +91,10 @@ end
   - level 2 item
 - level 1 item
 
-### Avery
+### Avery and Guppy 
 
 <img src="https://alyssaahn.github.io/Images/IMG_3461.jpg" width=50% height=50%>
-
-### Large image
-
-![Branching](https://alyssaahn.github.io/Images/IMG_3461.jpg)
+<img src="alyssaahn.github.io/Images/IMG_4242.jpg" width=50% height=50%>
 
 
 ### Definition lists can be used with HTML syntax.
