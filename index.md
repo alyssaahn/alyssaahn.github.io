@@ -94,7 +94,7 @@ end
 ### Avery and Guppy 
 
 <img src="https://alyssaahn.github.io/Images/IMG_3461.jpg" width=50% height=50%>
-<img src="alyssaahn.github.io/Images/IMG_4242.jpg" width=50% height=50%>
+<img src="https://alyssaahn.github.io/Images/IMG_4242.jpg" width=50% height=50%>
 
 
 ### Definition lists can be used with HTML syntax.
