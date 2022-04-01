@@ -93,7 +93,7 @@ end
 
 ### Avery
 
-<img src="https://alyssaahn.github.io/Images/IMG_3461.jpg" width="300" height="500">
+<img src="https://alyssaahn.github.io/Images/IMG_3461.jpg" width=50% height=50%>
 
 ### Large image
 
