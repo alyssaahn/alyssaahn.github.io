@@ -93,7 +93,7 @@ end
 
 ### Small image
 
-![Avery](https://alyssaahn.github.io/Images/IMG_3461.jpg | width=400)
+![Avery]<img src="https://alyssaahn.github.io/Images/IMG_3461.jpg" width="300" height="300">
 
 ### Large image
 
