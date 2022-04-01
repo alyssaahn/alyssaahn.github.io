@@ -119,3 +119,6 @@ Glad you made it! Avery is a Standard Issue Cat that loves basking in the sun an
 
 <img align = "left" src="/Images/IMG_3461.jpg" width="175" height="245"> <img align = "right" src="/docs/assets/images/IMG_4242.jpg" width="175" height="245">
 
+```
+```
+
