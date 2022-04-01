@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 logo: Images/IMG_3533.jpg
 title: Alyssa Ahn 
-description:  📍 San Francisco, California <br><br>👩‍💻 @ Microsoft <br><br> Can Be Found Biking, Cooking, Hiking, Running, Reading,
+description:  📍 San Francisco, California <br><br>👩‍💻 @ Microsoft <br><br> Can Be Found Biking, Cooking, Hiking, Running, Reading but not all at once!
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
