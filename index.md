@@ -91,9 +91,9 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### Avery
 
-![Avery]<img src="https://alyssaahn.github.io/Images/IMG_3461.jpg" width="300" height="300">
+<img src="https://alyssaahn.github.io/Images/IMG_3461.jpg" width="300" height="500">
 
 ### Large image
 
