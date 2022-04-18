@@ -10,8 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-[# Applying Differential Privacy on Brazilian Highway Accident Data Set](./project_diff_priv)
-Sources: [Kaggle Data Set - Brazil Highway Traffic Accidents](https://www.kaggle.com/datasets/mcamera/brazil-highway-traffic-accidents?resource=download-directory)
+# Applying Differential Privacy on Brazilian Highway Accident Data Set
+[Deep Dive](./project_diff_priv)
+
 
 ## Header 2
 
