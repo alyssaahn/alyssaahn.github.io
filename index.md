@@ -35,6 +35,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+### Numerical Optimization and Exploration of K-Means Problem
 
 #### Header 4
 
