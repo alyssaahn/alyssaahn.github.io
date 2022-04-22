@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 [Deep Dive](./project_diff_priv)
 
 # Numerical Optimization and Exploration of K-Means Problem
-[Deep DIve](./num_opt)
+[Deep Dive](./num_opt)
 
 ## Header 2
 
