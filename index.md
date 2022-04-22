@@ -13,13 +13,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Applying Differential Privacy on Brazilian Highway Accident Data Set
 [Deep Dive](./project_diff_priv)
 
+# Numerical Optimization and Exploration of K-Means Problem
+
 
 ## Header 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-# Numerical Optimization and Exploration of K-Means Problem
+
 
 ```js
 // Javascript code with syntax highlighting.
@@ -35,7 +37,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-### Numerical Optimization and Exploration of K-Means Problem
+
 
 #### Header 4
 
