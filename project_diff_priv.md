@@ -10,4 +10,4 @@ Sources: [Kaggle Data Set - Brazil Highway Traffic Accidents](https://www.kaggle
 
 
 # TL;DR
-<img src="/Images/joke.png">
+<img src="/Images/joke.PNG">
