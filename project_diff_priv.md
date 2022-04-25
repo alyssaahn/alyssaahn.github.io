@@ -9,5 +9,5 @@ Sources: [Kaggle Data Set - Brazil Highway Traffic Accidents](https://www.kaggle
 <iframe src="https://alyssaahn.github.io/Fall_2018_Independent_Study__Numerical_Optimization_Final_Project.pdf" width="175%" height="800" frameborder="0" scrolling="no"></iframe>
 
 
-TL;DR
+# TL;DR
 <img src="/Images/joke.png">
