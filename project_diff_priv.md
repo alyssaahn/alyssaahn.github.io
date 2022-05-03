@@ -14,7 +14,7 @@ Navigating to the File: Geociências -> Downloads -> cartas_e_mapas -> bases_car
 
 [Differential Privacy Engine - Python Specific](https://pipelinedp.io/)
 
-<iframe src="https://alyssaahn.github.io/Differential_Privacy_Write_Up.pdf" width="175%" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://alyssaahn.github.io/Differential_Privacy_Write_Up.pdf" width="75%" height="400" frameborder="0" scrolling="no"></iframe>
 
 
 # TL;DR
