@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-Hello! My name is Alyssa Ahn. I am a Customer Success Account Manager based in San Francisco, CA. This is a repository of the projects and write ups I have put together in my free time. I enjoy Applied Mathematics, Privacy, Data Analysis and findings the beautiful intersections of the aforementioned. In my free time, I can be found biking the hills of the Bay Area, playing tennis, building a mechanical keyboard or hunting down my next cup of coffee. 
+Hello! My name is Alyssa Ahn. I am a Customer Success Account Manager at Microsoft. This is a repository of the projects and write ups I have put together in my free time. I enjoy Applied Mathematics, Privacy, Data Analysis and findings the beautiful intersections of the aforementioned. In my free time, I can be found biking the hills of the Bay Area, playing tennis, building a mechanical keyboard or hunting down my next cup of coffee. 
 
 
 # Applying Differential Privacy on Brazilian Highway Accident Data Set
