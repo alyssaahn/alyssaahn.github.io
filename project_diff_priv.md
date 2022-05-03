@@ -3,7 +3,13 @@ layout: default
 ---
 # Differential Privacy Project
 
-I have embedded the PDF of my write up for this project. Additionalluy, I have linked the my repository that houses the code I used. In the README file, you can find the links to the different files needed to properly run the code. 
+[Kaggle Data Set](https://www.kaggle.com/datasets/mcamera/brazil-highway-traffic-accidents?resource=download-directory)
+
+[Geopandas - Brazil Chloropleth](https://www.ibge.gov.br/)
+
+Navigating to the File: Geociências -> Downloads -> cartas_e_mapas -> bases_cartograficas_continuas -> bcim -> versao2016 — geopackage
+
+[Differential Privacy Engine - Python Specific](https://pipelinedp.io/)
 
 <iframe src="https://alyssaahn.github.io/Fall_2018_Independent_Study__Numerical_Optimization_Final_Project.pdf" width="175%" height="800" frameborder="0" scrolling="no"></iframe>
 
