@@ -2,6 +2,9 @@
 layout: default
 ---
 # Differential Privacy Project
+A project sparked by my love for mathematics and desire for privacy in this digital world!
+
+[My Code](https://github.com/alyssaahn/Projects/blob/main/DifferentialPrivacy/pdp_prac.py)
 
 [Kaggle Data Set](https://www.kaggle.com/datasets/mcamera/brazil-highway-traffic-accidents?resource=download-directory)
 
