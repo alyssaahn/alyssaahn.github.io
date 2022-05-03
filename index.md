@@ -14,5 +14,5 @@ layout: default
 
 Glad you made it! Avery is a Standard Issue Cat that loves basking in the sun and chasing feathers. Guppy is our Tuxedo Boy who can be found killing his octopus toy or chasing a spring. I can say with high likeliness that these cats are generally lounging somewhere near me or begging for food. 
 
-<img align = "left" src="/Images/IMG_3461.jpg" width="175" height="245"> <img align = "right" src="/docs/assets/images/IMG_4242.jpg" width="175" height="245">
+<img align = "center" src="/Images/IMG_2917.jpg" width="245" height="175">
 
