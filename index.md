@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-Hello! My name is Alyssa Ahn. I am a Customer Success Account Manager at Microsoft. This is a repository of the projects and write ups I have put together in my free time. I enjoy Applied Mathematics, Privacy, Data Analysis and findings the beautiful intersections of the aforementioned. In my free time, I can be found biking the hills of the Bay Area, playing tennis, building a mechanical keyboard or hunting down my next cup of coffee. 
+Hello! My name is Alyssa Ahn. I am an Analytics Engineer at Apple. This is a repository of projects and write ups I have put together in my free time. I enjoy Applied Mathematics, Privacy, Data Analysis and the beautiful intersections of the aforementioned. In my free time, I can be found biking the hills of the Bay Area, sourcing coffee beans, strumming on a guitar, or seeking out experiences that give me a sense of frisson. 
 
 
 # Applying Differential Privacy on Brazilian Highway Accident Data Set
